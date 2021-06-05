@@ -2,3 +2,4 @@ set config
 automatically build matrix
 poll for devices
 build driver database
+translate analogue input
