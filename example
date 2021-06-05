@@ -1,2 +1,3 @@
 set config
 automatically build matrix
+poll for devices
