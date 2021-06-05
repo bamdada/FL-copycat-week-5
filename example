@@ -1,2 +1,3 @@
 set config
 node metadata transmission
+receive near-node metadata
